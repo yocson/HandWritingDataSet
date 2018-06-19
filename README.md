@@ -2,9 +2,9 @@
 
 This is an organized handwriting database from [IAM Handwriting Database](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database). 
 
-In the database, all images are mixed regardless of the writers. The file "forms_for_parsing.txt" is provided for determine the relationship bewteen single handwriting and its writer.
+In the original database, all images are mixed regardless of the writers. The file "forms_for_parsing.txt" is provided for determine the relationship bewteen single handwriting and its writer.
 
-In this repository, 50 writers with the most handwriting images are selected and the images are categoried arrcording its writers. Convenient for train/validate/test split and lable.
+In this repository, 50 writers with the largest amount of handwriting images are collected and the images are categoried arrcording to its writer. Convenient for train/validate/test spliting and labling.
 
 ## Reference
 
